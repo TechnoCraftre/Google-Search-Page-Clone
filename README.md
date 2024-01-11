@@ -1,2 +1,3 @@
 # Google-Search-Page-Clone
-A replica of google search page
+
+>> Created the exact user interface of google search page using HTML and CSS.
